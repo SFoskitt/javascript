@@ -1,3 +1,5 @@
+This is the AirBnB JavaScript style guide modified for use at Bizrate.
+
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
